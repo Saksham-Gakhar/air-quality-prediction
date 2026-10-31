@@ -15,9 +15,3 @@ Air quality drops severely around Diwali due to weather shifts, firecracker emis
 * **Data Visualization:** Recharts / Chart.js
 * **External APIs:** OpenAQ, Central Pollution Control Board (CPCB), OpenWeatherMap API
 
-## Current Progress (Round 1)
-- [x] Initialized Next.js project structure & environment
-- [x] Formulated problem statement & system architecture
-- [ ] PostgreSQL schema setup (In Progress)
-- [ ] Next.js API route implementation (/api/predict)
-- [ ] Interactive Dashboard UI layout
