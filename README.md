@@ -5,7 +5,7 @@
 Developing an AI platform to predict neighborhood-level air pollution before, during, and after Diwali using historical AQI, weather, and traffic data.
 
 ## System Architecture
-![Architecture Diagram]("C:\Users\sgg16\OneDrive\Desktop\architecture.jpg")
+![Architecture Diagram]("architecyture.jpg")
 
 ## Tech Stack (Planned)
 - **Frontend:** Streamlit / React
