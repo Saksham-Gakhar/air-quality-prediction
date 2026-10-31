@@ -8,11 +8,12 @@ Developing an AI platform to predict neighborhood-level air pollution before, du
 ![Architecture Diagram](architecture1.jpeg)
 
 ## Tech Stack (Planned)
-- **Frontend:** Streamlit / React
-- **Backend:** Python (FastAPI / Flask)
-- **ML/AI Models:** Scikit-Learn / XGBoost / Pandas
+- **Frontend:** HTML, CSS, JavaScript / Chart.js
+- **Backend:** Python (Flask)
+- **ML/AI Models:** Scikit-Learn (Random Forest) / XGBoost / Pandas
+- **Database:** SQLite / Local CSV
 - **Data Sources:** OpenAQ, Central Pollution Control Board (CPCB), OpenWeatherMap API
-
+  
 ## Team & Setup
 - Environment initialized with Python 3.x
 - Skeleton repository created
