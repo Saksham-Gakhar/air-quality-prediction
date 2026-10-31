@@ -1,6 +1,6 @@
 # Air Quality Prediction
 
-Predicting neighborhood-level air pollution trends across the Diwali period.
+Predicting neighborhood-level air pollution trends in Delhi-NCR across the Diwali period.
 
 ## Overview
 Air quality drops severely around Diwali due to weather shifts, firecracker emissions, and traffic congestion. This project builds a hyper-local AQI prediction platform to analyze and forecast pollution levels before, during, and after Diwali to help residents and city planners prepare.
