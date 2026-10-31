@@ -1,19 +1,23 @@
-# air-quality-prediction
-# AI-Powered Neighborhood-Level Air Pollution Prediction System
+# Air Quality Prediction
 
-## Problem Statement
-Developing an AI platform to predict neighborhood-level air pollution before, during, and after Diwali using historical AQI, weather, and traffic data.
+Predicting neighborhood-level air pollution trends across the Diwali period.
 
-## System Architecture
+## Overview
+Air quality drops severely around Diwali due to weather shifts, firecracker emissions, and traffic congestion. This project builds a hyper-local AQI prediction platform to analyze and forecast pollution levels before, during, and after Diwali to help residents and city planners prepare.
+
+## Architecture
 ![Architecture Diagram](architecture1.jpeg)
 
-## Tech Stack (Planned)
-- **Frontend:** HTML, CSS, JavaScript / Chart.js
-- **Backend:** Python (Flask)
-- **ML/AI Models:** Scikit-Learn (Random Forest) / XGBoost / Pandas
-- **Database:** SQLite / Local CSV
-- **Data Sources:** OpenAQ, Central Pollution Control Board (CPCB), OpenWeatherMap API
-  
-## Team & Setup
-- Environment initialized with Python 3.x
-- Skeleton repository created
+## Tech Stack
+* **Framework / App:** Next.js (React Framework, Tailwind CSS)
+* **Backend:** Next.js API Routes (Node.js)
+* **Database:** PostgreSQL (Prisma ORM)
+* **Data Visualization:** Recharts / Chart.js
+* **External APIs:** OpenAQ, Central Pollution Control Board (CPCB), OpenWeatherMap API
+
+## Current Progress (Round 1)
+- [x] Initialized Next.js project structure & environment
+- [x] Formulated problem statement & system architecture
+- [ ] PostgreSQL schema setup (In Progress)
+- [ ] Next.js API route implementation (/api/predict)
+- [ ] Interactive Dashboard UI layout
